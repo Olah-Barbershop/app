@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Oláh Barbershop</string>
+    <string name="back_button">Back</string>
+    <string name="about">Description:</string>
+    <string name="locations">Locations</string>
+    <string name="locationsDesc">You can find our locations, there contact info and business hours here.</string>
+    <string name="address">Address:</string>
+    <string name="email">Email:</string>
+    <string name="businessHours">Business hours:</string>
+    <string name="phoneNumber">Phone Number:</string>
+    <string name="monday">Monday:</string>
+    <string name="tuesday">Tuesday:</string>
+    <string name="wednesday">Wednesday:</string>
+    <string name="thursday">Thursday:</string>
+    <string name="friday">Friday:</string>
+    <string name="saturday">Saturday:</string>
+    <string name="sunday">Sunday:</string>
+    <string name="services">Services</string>
+    <string name="servicesDesc">You can find our services here.</string>
+    <string name="normalCut">Normal Cut:</string>
+    <string name="longCut">Long Cut:</string>
+    <string name="oneLengthCut">One Length Cut:</string>
+    <string name="shaving">Shaving:</string>
+    <string name="currency">%sFt</string>
+    <string name="notifications">Notifications</string>
+    <string name="notificationsDesc">You can find your notifications here, whether they\'re merch, news or anything else.</string>
+    <string name="expand_button_content_description">Expand / Close.</string>
+</resources>
